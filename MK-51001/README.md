@@ -1,0 +1,25 @@
+**Game name:**
+
+Virtua Fighter 3tb (USA)
+
+**Game ID:**
+
+MK-51001
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DD1D9AC332A67CB9D70E15D4F0DD51E7E89EB03B
+
+BIN (TRACK 01) MD5: 93BDF9349DFBE0F6A5F490B2F3FBADC8
+
+BIN (TRACK 02) MD5: 824FF123FBCE45B5883962EB3FA43CAB
+
+BIN (TRACK 03) MD5: A0022E7C84E998DEFCA2A8549D14FBFB
+
+**Description:**
+
+Round: 3, Time: 30 seconds. Starts at main menu with "VS NORMAL MODE" option highlighted.
