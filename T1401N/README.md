@@ -1,0 +1,25 @@
+**Game name:**
+
+Soulcalibur (USA)
+
+**Game ID:**
+
+T1401N
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 20174F6C1CEB9977478E4867156F3F1BA7226362
+
+BIN (TRACK 01) MD5: 674E418633D471D4F78739BA600AC454
+
+BIN (TRACK 02) MD5: 824FF123FBCE45B5883962EB3FA43CAB
+
+BIN (TRACK 03) MD5: 72BE732A962A8210FC8DFCD80E37A53B
+
+**Description:**
+
+Everyting unlocked. Starts at main menu with "VS BATTLE" option highlighted.
