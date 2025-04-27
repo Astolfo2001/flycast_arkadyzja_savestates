@@ -12,14 +12,14 @@ CHD
 
 **Hash:**
 
-CHD DATA SHA1: 2FBF0BE94430983DEC24FF238DC5B2AB39331CF8
+CHD DATA SHA1: 81A6B17C0A4130CFB3220540C8548BECFED17571
 
-BIN (TRACK 01) MD5: 1371071505647A68FE9FD9E16E0C4267
+BIN (TRACK 01) MD5: 1371071505647a68fe9fd9e16e0c4267
 
-BIN (TRACK 02) MD5: 1C31D7F58BE6ED5EB334DB153C9DBAC3
+BIN (TRACK 02) MD5: 93b126aeb33b70ef37e69622c7497372
 
-BIN (TRACK 03) MD5: 51BA825F6D693856ABB773B52DCE2B2E
+BIN (TRACK 03) MD5: fe87332ee20d401a0761969dae0a7d96
 
 **Description:**
 
-Starts at main menu with "New Game" option highlighted. English translation patch make by SnowyAria. https://github.com/Eight-Mansions/SevenMansionsDC/releases/download/release/VGA.Only.-.Seven.Mansions.Ghastly.Smile.v1.4.GDI.patch.rar
+Starts at main menu with "New Game" option highlighted. English translation patch make by SnowyAria.
