@@ -4,7 +4,7 @@ Sega Worldwide Soccer 2000 - Euro Edition (Europe) (En,Fr,De,Es)
 
 **Game ID:**
 
-MK51083-50
+MK51083 50
 
 **Game format:**
 
