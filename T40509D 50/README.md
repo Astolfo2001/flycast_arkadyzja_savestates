@@ -38,4 +38,4 @@ BIN (TRACK 11) MD5: EBEDDD32FEEA0CA13CC01555B8680B39
 
 **Description:**
 
-Starts at main menu with "Two Player" option highlighted.
+Everything unlocked. Starts at main menu with "Two Player" option highlighted.
