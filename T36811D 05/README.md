@@ -4,7 +4,7 @@ Who Wants to Be a Millionaire (Europe)
 
 **Game ID:**
 
-T36811D-05
+T36811D 05
 
 **Game format:**
 
@@ -26,4 +26,4 @@ BIN (TRACK 05) MD5: 86EBC8C5202D050330760D5AAF794983
 
 **Description:**
 
-Starts in players select option with "2 Players" option highlighted.
+Starts in players select option with "Start Game" option highlighted.
