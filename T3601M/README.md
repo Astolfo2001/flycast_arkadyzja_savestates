@@ -22,4 +22,4 @@ BIN (TRACK 03) MD5: 681BE2AAB1D864DD1790E9C67D8BEDA4
 
 **Description:**
 
-All characters, costumes and CG gallery unlocked. Rounds: 3, Time: 60 seconds. Starts at main menu with "VERSUS" option highlighted.
+All characters, costumes and CG gallery unlocked. Rounds: 3, Time: 40 seconds. Starts at main menu with "VERSUS" option highlighted.
