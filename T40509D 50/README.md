@@ -4,7 +4,7 @@ Aqua GT (Europe) (En,Fr,De)
 
 **Game ID:**
 
-T40509D-50
+T40509D 50
 
 **Game format:**
 
