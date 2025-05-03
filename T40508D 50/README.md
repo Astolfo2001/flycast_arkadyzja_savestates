@@ -4,7 +4,7 @@ MoHo (Europe) (En,Fr,De)
 
 **Game ID:**
 
-T40508D-50
+T40508D 50
 
 **Game format:**
 
