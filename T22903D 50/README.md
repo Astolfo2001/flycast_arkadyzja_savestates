@@ -4,7 +4,7 @@ Exhibition of Speed (Europe) (En,Fr,De,Es,It,Nl)
 
 **Game ID:**
 
-T22903D-50
+T22903D 50
 
 **Game format:**
 
