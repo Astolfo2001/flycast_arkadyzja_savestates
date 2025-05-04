@@ -1,0 +1,28 @@
+**Game name:**
+
+San Francisco Rush 2049 (USA) (En,Fr,De,Es,It,Nl)
+
+**Game ID:**
+
+T-9707N
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6052EFDF61DB6B851C1AA1D60F850C771A87733C
+
+BIN (TRACK 01) MD5: 0f6dd68b6b7684013ccab2405fc35aa0
+
+BIN (TRACK 02) MD5: 824ff123fbce45b5883962eb3fa43cab
+
+BIN (TRACK 03) MD5: 1e26f2502659f7791d43b24334ef6288
+
+BIN (TRACK 04) MD5: cb9f913312fff0782cd8c87568bcc047
+
+BIN (TRACK 05) MD5: 4fcb54aca49a8b7f834e97cd57924976
+
+**Description:**
+
