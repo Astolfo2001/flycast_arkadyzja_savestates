@@ -26,3 +26,4 @@ BIN (TRACK 05) MD5: 4fcb54aca49a8b7f834e97cd57924976
 
 **Description:**
 
+Starts at main menu with "PLAYERS 2" option highlighted
