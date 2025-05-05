@@ -20,4 +20,4 @@ BIOS MD5: 85254fbe320ca82a768ec2c26bb08def
 
 **Description:**
 
-Starts at title screen with 99 credits.
+Starts at title screen with FREE PLAY mode activated.
