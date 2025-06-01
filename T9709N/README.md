@@ -1,0 +1,29 @@
+**Game name:**
+
+NBA Hoopz (USA)
+
+**Game ID:**
+
+T9709N
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E2B6C0AAA6B87519640CDA839F9069C3191C1C59
+
+BIN (TRACK 01) MD5: a6988d1dd6d9b94fe153e0fba6bda898
+
+BIN (TRACK 02) MD5: 824ff123fbce45b5883962eb3fa43cab
+
+BIN (TRACK 03) MD5: db582c8e2643017ef45c20cc4c46d292
+
+BIN (TRACK 04) MD5: 78c4efd8203d6879a2a5b2fe390910ec
+
+BIN (TRACK 05) MD5: e13277891c3884090736c0b9bd4e47ac
+
+**Description:**
+
+Starts at main menu with "QUICK START" option highlighted.
