@@ -1,0 +1,39 @@
+**Game name:**
+
+Wild Metal (USA) (En,Fr,De,Es,It,Pt)
+
+**Game ID:**
+
+T42101N 00
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F05ADD1CBBCD1E48FF1C6B6AB4570AD8EA1B43B2
+
+BIN (TRACK 01) MD5: d0d7227a79c4775da09576d340c7f1d9
+
+BIN (TRACK 02) MD5: 824ff123fbce45b5883962eb3fa43cab
+
+BIN (TRACK 03) MD5: 7e92cfcc927b93b684ac75d0f60ec9c9
+
+BIN (TRACK 04) MD5: c8d76b1ad9a2af73aaea80e45b9db761
+
+BIN (TRACK 05) MD5: 908d72f49a5c1191a2a2eec68d550a6d
+
+BIN (TRACK 06) MD5: 9fd4dcf26a09ad07ba35efda00c0c0b0
+
+BIN (TRACK 07) MD5: ea1a1c2ea4f355109baebf0d4a55a3e0
+
+BIN (TRACK 08) MD5: c1b37344c63ddcf1828d8f2872a5eb94
+
+BIN (TRACK 09) MD5: f4180926be10079f6a01e5767b5cff8b
+
+BIN (TRACK 10) MD5: b9ec60888e21b86a8466d98766206568
+
+**Description:**
+
+Everything unlocked. Starts at main menu with "MULTIPLAYER" option highlighted.
