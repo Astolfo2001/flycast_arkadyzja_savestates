@@ -1,0 +1,43 @@
+**Game name:**
+
+GigaWing (USA)
+
+**Game ID:**
+
+T1209N
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B7AD8AB456DB28F5A8B09BB110231B211DDA531C
+
+BIN (TRACK 01) MD5: ddbcb953aeba75b6f23a7d2ceb84c48f
+
+BIN (TRACK 02) MD5: 824ff123fbce45b5883962eb3fa43cab
+
+BIN (TRACK 03) MD5: 9b73258d8d94a7e3526e868a0c635266
+
+BIN (TRACK 04) MD5: 5fdd3616ad3c55b554b57d4462040373
+
+BIN (TRACK 05) MD5: 74f51686510db174e1b0911fb0fb653b
+
+BIN (TRACK 06) MD5: d8bfa4ca98b11ec00611e0a632e02477
+
+BIN (TRACK 07) MD5: 15aed8134740af5935fb0e1a11d528ac
+
+BIN (TRACK 08) MD5: bad26b4fd9c1b2598704868fe3134787
+
+BIN (TRACK 09) MD5: 4efb5ce082250639b9ae6c1687ca1abd
+
+BIN (TRACK 10) MD5: fc855745d3f16ab6bd9e5309abd8f361
+
+BIN (TRACK 11) MD5: 15aed8134740af5935fb0e1a11d528ac
+
+BIN (TRACK 12) MD5: ed5acedb2e7ddddd922cf62c3c01cf7a
+
+**Description:**
+
+Everything unlocked. Starts at main menu with "ARCADE" option highlighted.
