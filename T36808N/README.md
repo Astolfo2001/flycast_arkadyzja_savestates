@@ -1,0 +1,31 @@
+**Game name:**
+
+Sydney 2000 (USA)
+
+**Game ID:**
+
+T36808N
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EEBEAB62689F434BE17E3483B73AAD5B89D0EABC
+
+BIN (TRACK 01) MD5: 8b320e9cbe9100f4089768d05e3c673d
+
+BIN (TRACK 02) MD5: 9cca4624e62f04dc398aed22b5370a34
+
+BIN (TRACK 03) MD5: c1cf05ceb344854fbca8eda5eb50454c
+
+BIN (TRACK 04) MD5: 31a460c8332462e210448a1cdac96942
+
+BIN (TRACK 05) MD5: 8d2d7045961ca57deefc6abed5a49ea3
+
+BIN (TRACK 06) MD5: 87c5649a7d11c61f8cb4780a3dd50a61
+
+**Description:**
+
+Starts at main menu with "ARCADE" option highlighted.
