@@ -1,0 +1,39 @@
+**Game name:**
+
+Test Drive V-Rally (USA) (En,Fr,De)
+
+**Game ID:**
+
+T15110N
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 00747D91B66964146BDEC2DEFD69C66E6445DE31
+
+BIN (TRACK 01) MD5: 96534d0b1c33c42aff908122aebf28a5
+
+BIN (TRACK 02) MD5: 824ff123fbce45b5883962eb3fa43cab
+
+BIN (TRACK 03) MD5: 2d38fb14ec34ac7c6b787e0b0aefa0c1
+
+BIN (TRACK 04) MD5: c5a963c6fdad67f016ce02037d43c748
+
+BIN (TRACK 05) MD5: bb685fdc4ec4e7b460d4d2a47b67ead8
+
+BIN (TRACK 06) MD5: 576de347ade583c7ed53f4eb45daaf7c
+
+BIN (TRACK 07) MD5: b51953c7f70f27947f1101e1eebb8880
+
+BIN (TRACK 08) MD5: 8e07113ff8677f62dec6374e073b6636
+
+BIN (TRACK 09) MD5: 6835ac0f162ac26d9f3f95340905ad1e
+
+BIN (TRACK 10) MD5: 51679f8fa2a8d85b24a3f85d089cbfe8
+
+**Description:**
+
+Everything unlocked. Starts at main menu with "2 PLAYERS START" option highlighted.
