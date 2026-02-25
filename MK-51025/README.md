@@ -1,0 +1,29 @@
+**Game name:**
+
+NHL 2K (USA)
+
+**Game ID:**
+
+MK-51025
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8DE960110CC015BFD9BBFEF91FBCF0B2002796C0
+
+BIN (TRACK 01) MD5: 6fac529b6661a366245ea182c641485b
+
+BIN (TRACK 02) MD5: 4220f56eb5c18ba2a097e25c460872bd
+
+BIN (TRACK 03) MD5: 4e2fe1504d437c81f64a4cbe94584d66
+
+BIN (TRACK 04) MD5: 174e44dddf9ac5051320efc9a16eed73
+
+BIN (TRACK 05) MD5: 8645bcc77e7bc3b0815418c88e449c02
+
+**Description:**
+
+Starts at main menu with "Exhibition" option highlighted.
