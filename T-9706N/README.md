@@ -1,0 +1,29 @@
+**Game name:**
+
+NBA Showtime - NBA on NBC (USA)
+
+**Game ID:**
+
+T-9706N
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3B73CE5140599160C56EB3EC38C98E294FB86C7F
+
+BIN (TRACK 01) MD5: 411e3686e69e5425e1899972b9d41470
+
+BIN (TRACK 02) MD5: c81b05f5ce417ea2c2f4e58ceae71cdd
+
+BIN (TRACK 03) MD5: 8d782e312c19307ed08c87cbf679dd8c
+
+BIN (TRACK 04) MD5: 9344135fc48b49deaf6723533d9fc5f4
+
+BIN (TRACK 05) MD5: aa639d3288fc743f81efb8020073302a
+
+**Description:**
+
+Starts at main menu with "START GAME" option highlighted.
