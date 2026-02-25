@@ -1,0 +1,29 @@
+**Game name:**
+
+World Series Baseball 2K2 (USA)
+
+**Game ID:**
+
+MK-51152
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 169C76E9AF6F242F123334D4CD499FDD76B9025F
+
+BIN (TRACK 01) MD5: bdad68aed3bb60bdfff77d579a9b1d07
+
+BIN (TRACK 02) MD5: 824ff123fbce45b5883962eb3fa43cab
+
+BIN (TRACK 03) MD5: fd21bae1b32b45e7f06e48bd81f28511
+
+BIN (TRACK 04) MD5: cb9f913312fff0782cd8c87568bcc047
+
+BIN (TRACK 05) MD5: aee2ec7e7d937a5c78d3f866dbba45c5
+
+**Description:**
+
+Starts in EXHIBITION mode.
