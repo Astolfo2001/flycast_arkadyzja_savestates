@@ -1,6 +1,6 @@
 **Game name:**
 
-Giant Gram - Zen Nihon Pro Wres 2 in Nihon Budoukan (Japan)
+Giant Gram - Zen Nihon Pro Wres 2 in Nippon Budoukan (Japan)
 
 **Game ID:**
 
