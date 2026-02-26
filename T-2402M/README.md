@@ -1,6 +1,6 @@
 **Game name:**
 
-Guilty Gear X (Japan) (Rev A)
+Guilty Gear X (Japan)
 
 **Game ID:**
 
