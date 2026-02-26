@@ -1,6 +1,6 @@
 **Game name:**
 
-Zero Gunner 2 (Japan) (En,Ja)
+Zero Gunner 2 (Japan)
 
 **Game ID:**
 
