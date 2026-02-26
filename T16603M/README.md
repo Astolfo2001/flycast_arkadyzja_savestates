@@ -1,6 +1,6 @@
 **Game name:**
 
-Cleopatra Fortune (Japan) (Rev A)
+Cleopatra Fortune (Japan)
 
 **Game ID:**
 
