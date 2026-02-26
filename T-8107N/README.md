@@ -1,6 +1,6 @@
 **Game name:**
 
-Fur Fighters (USA) (En,Fr,De,Es) (Rev B)
+Fur Fighters (USA) (En,Fr,De,Es)
 
 **Game ID:**
 
