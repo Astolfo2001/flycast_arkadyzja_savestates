@@ -1,6 +1,6 @@
 **Game name:**
 
-NFL 2K1 (USA)
+NFL 2K1 (USA, Canada)
 
 **Game ID:**
 
