@@ -1,6 +1,6 @@
 **Game name:**
 
-MSR - Metropolis Street Racer (USA) (Rev A)
+MSR - Metropolis Street Racer (USA)
 
 **Game ID:**
 
